@@ -1,0 +1,15 @@
+{
+  "name": "02-ES6",
+  "version": "1.0.0",
+  "description": "On this file we will install",
+  "main": "00-2-code.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}

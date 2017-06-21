@@ -1,0 +1,20 @@
+
+quick video with fast instructions: 
+https://www.youtube.com/watch?v=YXW0NbBCsCE
+
+go to Mongodb.com
+click Download
+
+   in terminal 
+cd to downloads there you will see the file: mongodb-linux-x86_64-amazon-3.4.5.tgz
+
+tar xvf mongodb-linux-x86_64-amazon-3.4.5.tgz
+
+this will create a new directory in with the name: mongodb-linux-x86_64-amazon-3.4.5
+
+cd to this folder there you will find the docuements with license etc 
+you will also find a directory call: bin  this folde have all the executables that you will need to run the database.
+------------------------------------------------------------------------------------------------------------------------------------
+
+video with instructions. 
+https://www.youtube.com/watch?v=pWbMrx5rVBE
